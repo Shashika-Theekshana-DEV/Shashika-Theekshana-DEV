@@ -1,5 +1,35 @@
- <h1 align="center">Hi 👋, I'm Shashika Theekshana</h1>
+ 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shashika Theekshana</h1>
+
+
+
+
+ 
 <h3 align="center">A passionate iOS app developer from Sri Lanka.</h3>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashika-theekshana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashika-theekshana-dev" /> </p>
 
