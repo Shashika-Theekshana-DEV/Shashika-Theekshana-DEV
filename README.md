@@ -40,15 +40,73 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- :school: I'm currently the Final year student at **IIT Kharagpur**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
-- :sweat_smile: I'm a intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+  
+- :school: I'm an Undergraduate Student [FACULTY OF TECHNOLOGICAL STUDIES](https://fts.vau.ac.lk) in [UOV](https://vau.ac.lk)
+  
+- :email: Reach me at [wpshashikatheekshana@gmail.com](wpshashikatheekshana@gmail.com)
+  
+
+
+
+
+
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **saurabhchavan052@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
