@@ -41,7 +41,7 @@
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+<!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" /> -->
   
 - :school: I'm an Undergraduate Student [FACULTY OF TECHNOLOGICAL STUDIES](https://fts.vau.ac.lk) in [UOV](https://vau.ac.lk)
   
