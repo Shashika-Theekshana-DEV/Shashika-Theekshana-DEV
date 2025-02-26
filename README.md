@@ -76,7 +76,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashika-theekshana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashika-theekshana-dev" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 <p align="left">
 <a href="https://dev.to/shashika theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shashika theekshana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashika theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashika theekshana" height="30" width="40" /></a>
