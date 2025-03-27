@@ -75,7 +75,7 @@
 
 <h3 align="left">🔧 Tech Stack</h3>
 
-<h3 align="left">📱 Mobile App Development</h3>
+<h3 align="left"> &emsp;&emsp;📱 Mobile App Development &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🌐 Web & Backend &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🛠 Tools & Version Control </h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
