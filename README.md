@@ -184,9 +184,13 @@
   <tr>
     <td align="center" width="33%">
       <h3>📱 Mobile Development</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=swift,kotlin" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+      
+
+   
+
+<img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="64" height="64" alt="Swift">
+<img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/xcode.png" width="64" height="64" alt="Swift">
+   
     </td>
     <td align="center" width="33%">
       <h3>🌐 Web & Backend</h3>
