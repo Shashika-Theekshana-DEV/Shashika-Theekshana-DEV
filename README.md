@@ -193,14 +193,11 @@
  </td>
     <td align="center" width="33%">
       <h3>🌐 Web & Backend</h3>
-          <img src="" width="48" height="48" alt="Swift">
-          <img src="" width="48" height="48" alt="Swift">
-          <img src="" width="48" height="48" alt="Swift">--
-          <img src="" width="48" height="48" alt="Swift">
-          <img src="" width="48" height="48" alt="Swift">
-<a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/html.png" width="48" height="48" alt="HTML">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/css.png" width="48" height="48" alt="CSS">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/javascript.png" width="48" height="48" alt="JavaScript">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/python.png" width="48" height="48" alt="Python">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/mysql.png" width="48" height="48" alt="MySQL">
     </td>
     <td align="center" width="33%">
       <h3>🛠 Tools & Version Control</h3>
