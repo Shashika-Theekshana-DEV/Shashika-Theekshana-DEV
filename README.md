@@ -70,6 +70,39 @@
 <!-- Animated green line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Tech Stack -->
+
+
+<h3 align="left">🔧 Tech Stack</h3>
+
+<h3 align="left">📱 Mobile App Development</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift" />
+  </a>
+</p>
+
+<h3 align="left">🌐 Web & Backend</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,html,css,js,py,mysql" />
+  </a>
+</p>
+
+<h3 align="left">🛠 Tools & Version Control</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" />
+  </a>
+</p>
+
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashika-theekshana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashika-theekshana-dev" /> </p>
