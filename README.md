@@ -184,11 +184,11 @@
   <tr>
     <td align="center" width="33%">
       <h3>📱 Mobile Development</h3>
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="48" height="48" alt="Swift">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swiftui.png" width="48" height="48" alt="SwiftUI">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="44" height="44" alt="Swift">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swiftui.png" width="44" height="44" alt="SwiftUI">
           <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/%20Xcode%20IDE.png" width="50" height="50" alt="Xcode">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/app-store.png" width="48" height="48" alt="App-Store">
-          <img src="" width="48" height="48" alt="Swift">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/reality%20composer%20pro.png" width="48" height="48" alt="Reality Composer">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/create-ml.png" width="48" height="48" alt="Crate ML">
 
  </td>
     <td align="center" width="33%">
