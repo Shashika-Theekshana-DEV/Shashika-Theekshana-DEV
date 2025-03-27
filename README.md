@@ -70,82 +70,40 @@
 <!-- Animated green line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
 <!-- Tech Stack -->
+<h2 align="left">🔧 Tech Stack</h2>
 
-
-<h3 align="left">🔧 Tech Stack</h3>
-
-<h3 align="left"> &emsp;&emsp;📱 Mobile App Development &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🌐 Web & Backend &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🛠 Tools & Version Control </h3>
-
-
-
-
-<table style="border-collapse: collapse; border: none;">
-  <tr align="center">
-    <td style="border: none;">
-      <h3>📱 Mobile App Development</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=swift,kotlin" />
-      </a>
-    </td>
-    <td style="border: none;">
+<table style="border: none; width: 100%;">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Mobile Development</h3>
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="44" height="44" alt="Swift">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swiftui.png" width="44" height="44" alt="SwiftUI">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/%20Xcode%20IDE.png" width="50" height="50" alt="Xcode">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/reality%20composer%20pro.png" width="48" height="48" alt="Reality Composer">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/create-ml.png" width="48" height="48" alt="Crate ML">
+ </td>
+    <td align="center" width="33%">
       <h3>🌐 Web & Backend</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" />
-      </a>
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/html.png" width="48" height="48" alt="HTML">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/css.png" width="48" height="48" alt="CSS">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/javascript.png" width="48" height="48" alt="JavaScript">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/python.png" width="48" height="48" alt="Python">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/mysql.png" width="48" height="48" alt="MySQL">
     </td>
-    <td style="border: none;">
+    <td align="center" width="33%">
       <h3>🛠 Tools & Version Control</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" />
-      </a>
-    </td>
+     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/figma.png" width="48" height="48" alt="Figma">
+     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/git.png" width="48" height="48" alt="Git">
+     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/github.png" width="48" height="48" alt="GitHub">
+     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/notion.png" width="48" height="48" alt="Notion">
+     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/firebase.svg" width="48" height="48" alt="FireBase"> 
+
+   </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift" />
-  </a>
-</p>
-
-<h3 align="">🌐 Web & Backend</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" />
-  </a>
-</p>
-
-<h3 align="left">🛠 Tools & Version Control</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" />
-  </a>
-</p>
-
-
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashika-theekshana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashika-theekshana-dev" /> </p>
 
@@ -180,35 +138,3 @@
 
 
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td align="center" width="33%">
-      <h3>📱 Mobile Development</h3>
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="44" height="44" alt="Swift">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swiftui.png" width="44" height="44" alt="SwiftUI">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/%20Xcode%20IDE.png" width="50" height="50" alt="Xcode">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/reality%20composer%20pro.png" width="48" height="48" alt="Reality Composer">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/create-ml.png" width="48" height="48" alt="Crate ML">
-
- </td>
-    <td align="center" width="33%">
-      <h3>🌐 Web & Backend</h3>
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/html.png" width="48" height="48" alt="HTML">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/css.png" width="48" height="48" alt="CSS">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/javascript.png" width="48" height="48" alt="JavaScript">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/python.png" width="48" height="48" alt="Python">
-          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/mysql.png" width="48" height="48" alt="MySQL">
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠 Tools & Version Control</h3>
-     <img src="" width="48" height="48" alt="Swift">
-     <img src="" width="48" height="48" alt="Swift">
-     <img src="" width="48" height="48" alt="Swift">
-     <img src="" width="48" height="48" alt="Swift">
-     <img src="" width="48" height="48" alt="Swift">
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-    </td>
-  </tr>
-</table>
