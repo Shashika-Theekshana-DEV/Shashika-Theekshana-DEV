@@ -77,13 +77,55 @@
 
 <h3 align="left"> &emsp;&emsp;📱 Mobile App Development &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🌐 Web & Backend &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🛠 Tools & Version Control </h3>
 
+
+
+
+<table style="border-collapse: collapse; border: none;">
+  <tr align="center">
+    <td style="border: none;">
+      <h3>📱 Mobile App Development</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=swift,kotlin" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <h3>🌐 Web & Backend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <h3>🛠 Tools & Version Control</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift" />
   </a>
 </p>
 
-<h3 align="left">🌐 Web & Backend</h3>
+<h3 align="">🌐 Web & Backend</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -136,3 +178,27 @@
 </div>
 
 
+
+
+<table style="border: none; width: 100%;">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Mobile Development</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=swift,kotlin" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Web & Backend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠 Tools & Version Control</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+    </td>
+  </tr>
+</table>
