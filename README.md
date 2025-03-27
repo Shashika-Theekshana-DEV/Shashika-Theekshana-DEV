@@ -91,13 +91,39 @@
 <a href="https://www.hackerearth.com/shashika theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashika theekshana" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Tech Stack</h3>
+
+<h3 align="left">📱 Mobile App Development</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift" />
+  </a>
+</p>
+
+<h3 align="left">🌐 Web & Backend</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,html,css,js,py,mysql" />
+  </a>
+</p>
+
+<h3 align="left">🛠 Tools & Version Control</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" />
+  </a>
+</p>
+
+<!--<h3 align="left">🛠 Tools & Version Control</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,html,css,js,py,mysql,git,github,firebase,figma" />
   </a>
-</p>
-
+</p>-->
 
 
 
