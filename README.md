@@ -184,22 +184,32 @@
   <tr>
     <td align="center" width="33%">
       <h3>📱 Mobile Development</h3>
-      
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="48" height="48" alt="Swift">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swiftui.png" width="48" height="48" alt="SwiftUI">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/%20Xcode%20IDE.png" width="50" height="50" alt="Xcode">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/app-store.png" width="48" height="48" alt="App-Store">
+          <img src="" width="48" height="48" alt="Swift">
 
-   
-
-<img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="64" height="64" alt="Swift">
-<img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/xcode.png" width="64" height="64" alt="Swift">
  </td>
     <td align="center" width="33%">
       <h3>🌐 Web & Backend</h3>
-      <a href="https://skillicons.dev">
+          <img src="" width="48" height="48" alt="Swift">
+          <img src="" width="48" height="48" alt="Swift">
+          <img src="" width="48" height="48" alt="Swift">--
+          <img src="" width="48" height="48" alt="Swift">
+          <img src="" width="48" height="48" alt="Swift">
+<a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
     </td>
     <td align="center" width="33%">
       <h3>🛠 Tools & Version Control</h3>
-      <a href="https://skillicons.dev">
+     <img src="" width="48" height="48" alt="Swift">
+     <img src="" width="48" height="48" alt="Swift">
+     <img src="" width="48" height="48" alt="Swift">
+     <img src="" width="48" height="48" alt="Swift">
+     <img src="" width="48" height="48" alt="Swift">
+     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,firebase,figma" style="padding: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
     </td>
