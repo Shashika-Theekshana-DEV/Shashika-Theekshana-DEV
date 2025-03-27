@@ -190,8 +190,7 @@
 
 <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="64" height="64" alt="Swift">
 <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/xcode.png" width="64" height="64" alt="Swift">
-   
-    </td>
+ </td>
     <td align="center" width="33%">
       <h3>🌐 Web & Backend</h3>
       <a href="https://skillicons.dev">
