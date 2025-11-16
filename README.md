@@ -154,39 +154,39 @@
   <table style="border-collapse: collapse; border: 1px solid #ccc; width: auto; margin: 0 auto;">
     <tr>
       <td style="text-align: center;">
-        <img src="assets/Logo/nextjs.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/nextjs.png" alt="nextjs" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Next.js</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/tailwind-css.webp" alt="TailwindCSS" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Tailwind CSS</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/arkit.png" alt="ARKit" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/node-js.png" alt="NodeJS" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Node.js</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/coreml.png" alt="CoreML" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/aws.jpg" alt="AWS" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">AWS</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/xcode.png" alt="Xcode" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/mongodb.svg" alt="MongoDB" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">MongoDB</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/git.png" alt="Git" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/postgree.png" alt="PostgreSQL" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">PostgreSQL</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/firebase.png" alt="Firebase" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/linux.webp" alt="Linux" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Linux</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/figma.png" alt="Figma" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/doker.jpg" alt="Docker" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Docker</div>
       </td>
       <td style="text-align: center;">
-        <img src="assets/Logo/createml.png" alt="CreateML" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/Kubernetes.png" alt="Kubernetes" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Kubernetes</div>
       </td>
       </tr>
