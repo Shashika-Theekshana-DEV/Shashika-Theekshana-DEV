@@ -208,24 +208,30 @@
 <h4>💻 Developer Platforms</h4>
 <table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td><a href="https://github.com/shashika-theekshana" target="_blank" aria-label="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" /> GitHub</a></td>
-    <td><a href="https://stackoverflow.com/users/shashika-theekshana" target="_blank" aria-label="Stack Overflow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" /> Stack Overflow</a></td>
-    <td><a href="https://codepen.io/shashika-theekshana" target="_blank" aria-label="CodePen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" /> CodePen</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://codesandbox.io/u/shashika-theekshana" target="_blank" aria-label="CodeSandbox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" /> CodeSandbox</a></td>
-    <td><a href="https://www.topcoder.com/members/shashika-theekshana" target="_blank" aria-label="Topcoder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" /> Topcoder</a></td>
-    <td><a href="https://www.codechef.com/users/shashika-theekshana" target="_blank" aria-label="CodeChef"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" /> CodeChef</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://codeforces.com/profile/shashika-theekshana" target="_blank" aria-label="Codeforces"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" /> Codeforces</a></td>
-    <td><a href="https://leetcode.com/shashika-theekshana" target="_blank" aria-label="LeetCode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" /> LeetCode</a></td>
-    <td><a href="https://www.hackerrank.com/shashika-theekshana" target="_blank" aria-label="HackerRank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" /> HackerRank</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.hackerearth.com/shashika-theekshana" target="_blank" aria-label="HackerEarth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" /> HackerEarth</a></td>
-    <td><a href="https://auth.geeksforgeeks.org/user/shashika-theekshana" target="_blank" aria-label="GeeksforGeeks"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" /> GeeksforGeeks</a></td>
-    <td></td>
+    <td><a href="https://github.com/shashika-theekshana" target="_blank" aria-label="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" /> GitHub</a>
+    </td>
+    <td><a href="https://codepen.io/shashika-theekshana" target="_blank" aria-label="CodePen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" /> CodePen</a>
+    </td>
+    <td><a href="https://codesandbox.io/u/shashika-theekshana" target="_blank" aria-label="CodeSandbox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" /> CodeSandbox</a>
+    </td>
+    <td><a href="https://www.topcoder.com/members/shashika-theekshana" target="_blank" aria-label="Topcoder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" /> Topcoder</a>
+    </td>
+    <td><a href="https://www.codechef.com/users/shashika-theekshana" target="_blank" aria-label="CodeChef"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" /> CodeChef</a>
+    </td>
+    <td><a href="https://codeforces.com/profile/shashika-theekshana" target="_blank" aria-label="Codeforces"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" /> Codeforces</a>
+    </td>
+    <td><a href="https://leetcode.com/shashika-theekshana" target="_blank" aria-label="LeetCode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" /> LeetCode</a>
+    </td>
+   </tr>
+     <tr>
+    <td><a href="https://www.hackerrank.com/shashika-theekshana" target="_blank" aria-label="HackerRank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" /> HackerRank</a>
+    </td>
+    <td><a href="https://www.hackerearth.com/shashika-theekshana" target="_blank" aria-label="HackerEarth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" /> HackerEarth</a>
+    </td>
+    <td><a href="https://auth.geeksforgeeks.org/user/shashika-theekshana" target="_blank" aria-label="GeeksforGeeks"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" /> GeeksforGeeks</a>
+    </td>
+    <td><a href="https://stackoverflow.com/users/shashika-theekshana" target="_blank" aria-label="Stack Overflow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" /> Stack Overflow</a>
+    </td>
   </tr>
 </table>
 
@@ -249,8 +255,6 @@
         &nbsp;Hashnode
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://medium.com/@shashika-theekshana" target="_blank" rel="noopener noreferrer" aria-label="Medium">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" style="vertical-align:middle;" />
@@ -324,8 +328,6 @@
         &nbsp;Facebook
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://instagram.com/shashika-theekshana" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" style="vertical-align:middle;" />
@@ -346,3 +348,28 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
