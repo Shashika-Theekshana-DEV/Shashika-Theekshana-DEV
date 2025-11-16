@@ -143,3 +143,35 @@
 
 
 
+
+
+
+
+
+
+
+<table style="border: none; width: 100%;">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Native iOS Development Tools</h3>
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swift.png" width="44" height="44" alt="Swift">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/swiftui.png" width="44" height="44" alt="SwiftUI">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/%20Xcode%20IDE.png" width="50" height="50" alt="Xcode">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/reality%20composer%20pro.png" width="48" height="48" alt="Reality Composer">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/create-ml.png" width="48" height="48" alt="Crate ML">
+     <br>
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/html.png" width="48" height="48" alt="HTML">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/css.png" width="48" height="48" alt="CSS">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/javascript.png" width="48" height="48" alt="JavaScript">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/python.png" width="48" height="48" alt="Python">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/mysql.png" width="48" height="48" alt="MySQL">
+     <br>
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/figma.png" width="48" height="48" alt="Figma">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/git.png" width="48" height="48" alt="Git">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/github.png" width="48" height="48" alt="GitHub">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/notion.png" width="48" height="48" alt="Notion">
+          <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/firebase.svg" width="48" height="48" alt="FireBase">
+  
+  </tr>
+</table>
+
