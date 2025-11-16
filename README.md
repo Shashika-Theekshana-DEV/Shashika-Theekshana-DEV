@@ -154,7 +154,7 @@
   <table style="border-collapse: collapse; border: 1px solid #ccc; width: auto; margin: 0 auto;">
     <tr>
       <td style="text-align: center;">
-        <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <img src="assets/Logo/nextjs.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
         <div style="margin-top: 8px;">Next.js</div>
       </td>
       <td style="text-align: center;">
