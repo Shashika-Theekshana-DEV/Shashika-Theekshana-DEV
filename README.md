@@ -190,15 +190,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashika-theekshana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shashika-theekshana-dev" /> </p>
 
 
@@ -220,14 +211,24 @@
 
 
 
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me
+</h3>
+<p align="left">
+  <a href="https://dev.to/shashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shashika theekshana" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashika theekshana" height="30" width="40" /></a>
+  <a href="https://kaggle.com/wpshashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wpshashikatheekshana" height="30" width="40" /></a>
+  <a href="https://fb.com/shashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashika theekshana" height="30" width="40" /></a>
+  <a href="https://instagram.com/shashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashika theekshana" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@shashikateekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shashikateekshana" height="30" width="40" /></a>
+  <a href="https://medium.com/@wpshashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wpshashikatheekshana" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/wpshashikathee" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wpshashikathee" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/shashikatheeksh2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashikatheeksh2" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/shashika-theekshana-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashika-theekshana-dev" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/shashikatheekshana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashika theekshana" height="30" width="40" /></a>
+</p>
 
 
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
 
 
 
