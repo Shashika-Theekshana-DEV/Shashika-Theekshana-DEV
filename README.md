@@ -208,7 +208,7 @@
 <h4>💻 Developer Platforms</h4>
 <table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td><a href="https://github.com/shashika-theekshana" target="_blank" aria-label="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" /> 
+    <td><a href="https://gitlab.com/shashika-theekshana" target="_blank" aria-label="GitLab"><img src="https://raw.githubusercontent.com/rahuldkjain/gitlab-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitLab" height="30" /> 
     </a>GitHub
     </td>
     <td><a href="https://codepen.io/shashika-theekshana" target="_blank" aria-label="CodePen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" /> 
