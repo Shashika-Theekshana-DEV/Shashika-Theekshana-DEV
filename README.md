@@ -26,7 +26,11 @@
 
 
 <!-- Slidhing blue text-->
- <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+profile;I+am+Native+IOS +Developer;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+<center>
+ <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi,+welcome+to+my+Github+profile;I+am+Native+IOS+Developer;I+am+a+High+school+student;" alt="Typing SVG">
+</a>
+</center>
 
 
 
@@ -37,7 +41,7 @@
 
 
 
-<!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" /> -->
+
   
 - :school: I'm an Undergraduate Student [FACULTY OF TECHNOLOGICAL STUDIES](https://fts.vau.ac.lk) in [UOV](https://vau.ac.lk)
   
