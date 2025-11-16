@@ -78,44 +78,35 @@
 
 
 <!-- Tech Stack -->
-<h2 align="left">🔧 Tech Stack</h2>
+<h2 align="left">🔧 Tech Stack</h2> <br>
+
 
 
 <div style="margin-bottom: 40px;">
-  <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">📱 Native iOS Development Tools</div>
-  <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px;">
-    <img src="assets/Logo/swift.png" alt="Swift" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/arkit.png" alt="Xcode" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/coreml.png" alt="Reality Composer" style="width: 48px; height: 48px;">
-   <br>
-    <img src="assets/Logo/xcode.png" alt="Create ML" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/git.png" alt="HTML" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/firebase.png" alt="CSS" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/figma.png" alt="JavaScript" style="width: 48px; height: 48px;">
-   <br>
-    <img src="assets/Logo/createml.png" alt="Python" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/swiftdata.png" alt="MySQL" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/swifttesting.png" alt="Figma" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/testflight.png" alt="Git" style="width: 48px; height: 48px;">
-  </div>
+  <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">📱 Native iOS Development Tools</div><br>
+    <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/arkit.png" alt="Xcode" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/coreml.png" alt="Reality Composer" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/xcode.png" alt="Create ML" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/git.png" alt="HTML" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/firebase.png" alt="CSS" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/figma.png" alt="JavaScript" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/createml.png" alt="Python" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/swiftdata.png" alt="MySQL" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/swifttesting.png" alt="Figma" style="width: 72px; height: 72px;">
+    <img src="assets/Logo/testflight.png" alt="Git" style="width: 72px; height: 72px;">
 </div>
 
 <div style="margin-bottom: 40px;">
   <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">🧰 Productivity & Collaboration Tools</div>
   <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px;">
-    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/github.png" alt="GitHub" style="width: 48px; height: 48px;">
-    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/notion.png" alt="Notion" style="width: 48px; height: 48px;">
-    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/firebase.svg" alt="Firebase" style="width: 48px; height: 48px;">
+    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/github.png" alt="GitHub" style="width: 72px; height: 72px;">
+    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/notion.png" alt="Notion" style="width: 72px; height: 72px;">
+    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/firebase.svg" alt="Firebase" style="width: 72px; height: 72px;">
     <!-- Add 9 more icons here if needed -->
   </div>
 </div>
-
-
-
-
-
-
 
 
 
@@ -162,41 +153,13 @@
 
 
 
-<div style="margin-bottom: 40px;">
-  <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">📱 Native iOS Development Tools</div>
-  <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px;">
-    <img src="assets/Logo/swift.png" alt="Swift" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/arkit.png" alt="Xcode" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/coreml.png" alt="Reality Composer" style="width: 48px; height: 48px;">
-   <br>
-    <img src="assets/Logo/xcode.png" alt="Create ML" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/git.png" alt="HTML" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/firebase.png" alt="CSS" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/figma.png" alt="JavaScript" style="width: 48px; height: 48px;">
-   <br>
-    <img src="assets/Logo/createml.png" alt="Python" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/swiftdata.png" alt="MySQL" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/swifttesting.png" alt="Figma" style="width: 48px; height: 48px;">
-    <img src="assets/Logo/testflight.png" alt="Git" style="width: 48px; height: 48px;">
-  </div>
-</div>
 
-<div style="margin-bottom: 40px;">
-  <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">🧰 Productivity & Collaboration Tools</div>
-  <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px;">
     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/github.png" alt="GitHub" style="width: 48px; height: 48px;">
     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/notion.png" alt="Notion" style="width: 48px; height: 48px;">
     <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/firebase.svg" alt="Firebase" style="width: 48px; height: 48px;">
     <!-- Add 9 more icons here if needed -->
   </div>
 </div>
-
-
-
-
-
-
 
 
 
