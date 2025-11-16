@@ -290,17 +290,17 @@
 <table style="width:100%; border-collapse:collapse;">
   <tr>
     <td>
-      <a href="https://kaggle.com/shashika-theekshana" target="_blank" rel="noopener noreferrer" aria-label="Kaggle">
+      <a href="https://kaggle.com/wpshashikatheekshana" target="_blank" rel="noopener noreferrer" aria-label="Kaggle">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" style="vertical-align:middle;" /> </a>
         &nbsp;Kaggle
     </td>
     <td>
-      <a href="https://dribbble.com/shashika-theekshana" target="_blank" rel="noopener noreferrer" aria-label="Dribbble">
+      <a href="https://dribbble.com/ShashikaTheekshana" target="_blank" rel="noopener noreferrer" aria-label="Dribbble">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" style="vertical-align:middle;" />  </a>
         &nbsp;Dribbble
     </td>
     <td>
-      <a href="https://www.behance.net/shashika-theekshana" target="_blank" rel="noopener noreferrer" aria-label="Behance">
+      <a href="https://www.behance.net/shashiktheeksh" target="_blank" rel="noopener noreferrer" aria-label="Behance">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" style="vertical-align:middle;" />  </a>
         &nbsp;Behance
     </td>
