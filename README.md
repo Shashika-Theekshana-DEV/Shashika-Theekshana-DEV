@@ -186,20 +186,6 @@
         <div style="margin-top: 8px;">CreateML</div>
       </td>
       </tr>
-      <tr>
-      <td style="text-align: center;">
-        <img src="assets/Logo/swiftdata.png" alt="SwiftData" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">SwiftData</div>
-      </td>
-      <td style="text-align: center;">
-        <img src="assets/Logo/swifttesting.png" alt="SwiftTesting" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">SwiftTesting</div>
-      </td>
-      <td style="text-align: center;">
-        <img src="assets/Logo/testflight.png" alt="TestFlight" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">TestFlight</div>
-      </td>
-    </tr>
   </table>
 </div>
 
