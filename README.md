@@ -238,4 +238,39 @@
 
 
 
+<section class="social-links">
+  <h2>Connect with Me</h2>
+  <div class="grid">
+    <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+    <a href="https://twitter.com/yourusername" target="_blank">Twitter</a>
+    <a href="https://dev.to/yourusername" target="_blank">Dev.to</a>
+    <a href="https://codepen.io/yourusername" target="_blank">CodePen</a>
+    <a href="https://codesandbox.io/u/yourusername" target="_blank">CodeSandbox</a>
+    <a href="https://stackoverflow.com/users/youruserid" target="_blank">Stack Overflow</a>
+    <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+    <a href="https://kaggle.com/yourusername" target="_blank">Kaggle</a>
+    <a href="https://facebook.com/yourusername" target="_blank">Facebook</a>
+    <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+    <a href="https://dribbble.com/yourusername" target="_blank">Dribbble</a>
+    <a href="https://behance.net/yourusername" target="_blank">Behance</a>
+    <a href="https://hashnode.com/@yourusername" target="_blank">Hashnode</a>
+    <a href="https://medium.com/@yourusername" target="_blank">Medium</a>
+    <a href="https://youtube.com/@yourusername" target="_blank">YouTube</a>
+    <a href="https://codechef.com/users/yourusername" target="_blank">CodeChef</a>
+    <a href="https://hackerrank.com/yourusername" target="_blank">HackerRank</a>
+    <a href="https://codeforces.com/profile/yourusername" target="_blank">Codeforces</a>
+    <a href="https://leetcode.com/yourusername" target="_blank">LeetCode</a>
+    <a href="https://topcoder.com/members/yourusername" target="_blank">Topcoder</a>
+    <a href="https://hackerearth.com/@yourusername" target="_blank">HackerEarth</a>
+    <a href="https://geeksforgeeks.org/user-profile/yourusername" target="_blank">GeeksforGeeks</a>
+    <a href="https://discord.com/users/yourdiscordid" target="_blank">Discord</a>
+    <a href="https://yourdomain.com/rssfeed.xml" target="_blank">RSS Feed</a>
+  </div>
+</section>
+
+
+
+
+
+
 
