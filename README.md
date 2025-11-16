@@ -155,7 +155,7 @@
     <tr>
       <td style="text-align: center;">
         <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">NextJS</div>
+        <div style="margin-top: 8px;">Next.js</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; max-width: 100%; height: auto;"><br>
@@ -163,31 +163,31 @@
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/arkit.png" alt="ARKit" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">ARKit</div>
+        <div style="margin-top: 8px;">Node.js</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/coreml.png" alt="CoreML" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">CoreML</div>
+        <div style="margin-top: 8px;">AWS</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/xcode.png" alt="Xcode" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">Xcode</div>
+        <div style="margin-top: 8px;">MongoDB</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/git.png" alt="Git" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">Git</div>
+        <div style="margin-top: 8px;">PostgreSQL</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/firebase.png" alt="Firebase" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">Firebase</div>
+        <div style="margin-top: 8px;">Linux</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/figma.png" alt="Figma" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">Figma</div>
+        <div style="margin-top: 8px;">Docker</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/createml.png" alt="CreateML" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">CreateML</div>
+        <div style="margin-top: 8px;">Kubernetes</div>
       </td>
       </tr>
   </table>
