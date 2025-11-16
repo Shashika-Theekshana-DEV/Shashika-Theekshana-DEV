@@ -84,18 +84,66 @@
 
 <div style="margin-bottom: 40px;">
   <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">📱 Native iOS Development Tools</div><br>
-    <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/arkit.png" alt="Xcode" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/coreml.png" alt="Reality Composer" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/xcode.png" alt="Create ML" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/git.png" alt="HTML" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/firebase.png" alt="CSS" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/figma.png" alt="JavaScript" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/createml.png" alt="Python" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/swiftdata.png" alt="MySQL" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/swifttesting.png" alt="Figma" style="width: 72px; height: 72px;">
-    <img src="assets/Logo/testflight.png" alt="Git" style="width: 72px; height: 72px;">
+
+
+  <div style="text-align: center;">
+  <table style="border-collapse: collapse; border: 1px solid #ccc; width: auto; margin: 0 auto;">
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Swift</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">SwiftUI</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/arkit.png" alt="ARKit" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">ARKit</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/coreml.png" alt="CoreML" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">CoreML</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/xcode.png" alt="Xcode" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Xcode</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/git.png" alt="Git" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Git</div>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/Logo/firebase.png" alt="Firebase" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Firebase</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/figma.png" alt="Figma" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Figma</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/createml.png" alt="CreateML" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">CreateML</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swiftdata.png" alt="SwiftData" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">SwiftData</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swifttesting.png" alt="SwiftTesting" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">SwiftTesting</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/testflight.png" alt="TestFlight" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">TestFlight</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+    
 </div>
 
 <div style="margin-bottom: 40px;">
@@ -154,13 +202,62 @@
 
 
 
-    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/github.png" alt="GitHub" style="width: 48px; height: 48px;">
-    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/notion.png" alt="Notion" style="width: 48px; height: 48px;">
-    <img src="https://github.com/Shashika-Theekshana-DEV/Shashika-Theekshana-DEV/blob/main/firebase.svg" alt="Firebase" style="width: 48px; height: 48px;">
-    <!-- Add 9 more icons here if needed -->
-  </div>
+   <div style="text-align: center;">
+  <table style="border-collapse: collapse; border: 1px solid #ccc; width: auto; margin: 0 auto;">
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Swift</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">SwiftUI</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/arkit.png" alt="ARKit" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">ARKit</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/coreml.png" alt="CoreML" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">CoreML</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/xcode.png" alt="Xcode" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Xcode</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/git.png" alt="Git" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Git</div>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="assets/Logo/firebase.png" alt="Firebase" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Firebase</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/figma.png" alt="Figma" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">Figma</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/createml.png" alt="CreateML" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">CreateML</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swiftdata.png" alt="SwiftData" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">SwiftData</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/swifttesting.png" alt="SwiftTesting" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">SwiftTesting</div>
+      </td>
+      <td style="text-align: center;">
+        <img src="assets/Logo/testflight.png" alt="TestFlight" style="width: 72px; max-width: 100%; height: auto;"><br>
+        <div style="margin-top: 8px;">TestFlight</div>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
