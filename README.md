@@ -198,10 +198,11 @@
 
 
 
+<!-- Tech Stack -->
+<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me</h2> <br>
 
 
 
-<h3 align="left">Connect with me:</h3>
 
 <!-- Developer Platforms -->
 <h4>💻 Developer Platforms</h4>
