@@ -148,18 +148,18 @@
 
     
 <div style="margin-bottom: 40px;">
-  <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">⚙️ Core Technical Skills </div><br>
+  <div style="font-size: 1.4em; margin-bottom: 10px; font-weight: bold;">⚙️ Other Core Technical Skills </div><br>
 
   <div style="text-align: center;">
   <table style="border-collapse: collapse; border: 1px solid #ccc; width: auto; margin: 0 auto;">
     <tr>
       <td style="text-align: center;">
         <img src="assets/Logo/swift.png" alt="Swift" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">Swift</div>
+        <div style="margin-top: 8px;">NextJS</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/swiftui.png" alt="SwiftUI" style="width: 72px; max-width: 100%; height: auto;"><br>
-        <div style="margin-top: 8px;">SwiftUI</div>
+        <div style="margin-top: 8px;">Tailwind CSS</div>
       </td>
       <td style="text-align: center;">
         <img src="assets/Logo/arkit.png" alt="ARKit" style="width: 72px; max-width: 100%; height: auto;"><br>
